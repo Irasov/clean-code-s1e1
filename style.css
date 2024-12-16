@@ -126,7 +126,7 @@ input#new-task {
 }
 
 /* Completed */
-ul#completed-tasks .task-todo__label {
+#completed-tasks .task-todo__label {
   text-decoration: line-through
   color: #888;
 }
