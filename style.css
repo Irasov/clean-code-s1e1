@@ -36,14 +36,14 @@
   display: flex;
 }
 .tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-todo, .title {
-  list-style:none;
+  list-style: none;
 }
 .task, .btn{
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -135,14 +135,14 @@ input#new-task {
 
 /* Edit Task */
 .tasks .task-todo .task-todo__input {
-    display:none
+    display: none
 }
 
 .tasks .task-todo_edit-mode .task-todo__input {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .tasks .task-todo_edit-mode label {
-    display:none;
+    display: none;
 }
