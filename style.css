@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .header__body { text-align: center;
+  .header__body { 
+    text-align: center;
 }
 }
 .maim__body {
@@ -66,7 +67,8 @@
   margin: 0;
   text-transform: uppercase;
 }
-.task-todo__input, .add-tasks__task {
+.task-todo__input, 
+.add-tasks__task {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
