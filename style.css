@@ -116,7 +116,7 @@ input#new-task {
   width: 226px;
 }
 .task-todo > .task-todo__input {
-  width: 226px
+  width: 226px;
 }
 .task-todo__delete .task-todo__img {
   height: 2em;
@@ -135,12 +135,12 @@ input#new-task {
 
 /* Edit Task */
 .tasks .task-todo .task-todo__input {
-    display: none
+    display: none;
 }
 
 .tasks .task-todo_edit-mode .task-todo__input {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .tasks .task-todo_edit-mode label {
