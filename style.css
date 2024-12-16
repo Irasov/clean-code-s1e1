@@ -129,7 +129,7 @@ input#new-task {
 
 /* Completed */
 #completed-tasks .task-todo__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
